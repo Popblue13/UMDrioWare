@@ -1,8 +1,8 @@
 [gd_scene format=3 uid="uid://67mvu2cf11so"]
 
-[ext_resource type="Script" uid="uid://d28a1gihixqie" path="res://DebugSampleGames/Scripts/MicroGameRoot.gd" id="1_1krpx"]
-[ext_resource type="Script" uid="uid://bwtk00eaqm1dj" path="res://Frameworks(YourStuff)/Jude/BasePlate/game.gd" id="2_7ln31"]
-[ext_resource type="Texture2D" uid="uid://clj05tcdxmbnf" path="res://Frameworks(YourStuff)/Jude/BasePlate/icon.jpg" id="3_3rafc"]
+[ext_resource type="Script" uid="uid://d28a1gihixqie" path="res://Misc/Scripts/MicroGameRoot.gd" id="1_1krpx"]
+[ext_resource type="Script" uid="uid://bwtk00eaqm1dj" path="res://Frameworks(YourStuff)/game.gd" id="2_7ln31"]
+[ext_resource type="Texture2D" uid="uid://clj05tcdxmbnf" path="res://Frameworks(YourStuff)/BasePlate/icon.jpg" id="3_3rafc"]
 
 [node name="GameRoot" type="Node2D" unique_id=34343246]
 script = ExtResource("1_1krpx")

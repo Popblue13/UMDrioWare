@@ -1,6 +1,6 @@
 [gd_scene format=4 uid="uid://c66dy58nn2n7a"]
 
-[ext_resource type="Script" uid="uid://d28a1gihixqie" path="res://DebugSampleGames/Scripts/MicroGameRoot.gd" id="1_ot2hq"]
+[ext_resource type="Script" uid="uid://d28a1gihixqie" path="res://Misc/Scripts/MicroGameRoot.gd" id="1_ot2hq"]
 [ext_resource type="Script" uid="uid://40rx4l3n4tpp" path="res://Frameworks(YourStuff)/Jude/ShakeColors/SprayPaint.gd" id="2_ljf61"]
 [ext_resource type="Texture2D" uid="uid://b4nrfundlknrn" path="res://Frameworks(YourStuff)/Jude/ShakeColors/checkerboard_imageedit_17_4782211417.jpg" id="3_70f1w"]
 [ext_resource type="Script" uid="uid://bwl6hjy15q3lo" path="res://Frameworks(YourStuff)/Jude/ShakeColors/playerreal.gd" id="3_vj70r"]

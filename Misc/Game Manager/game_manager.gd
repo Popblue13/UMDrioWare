@@ -10,7 +10,7 @@ const ENGINE_SPEED_INCREASE = 0.2
 
 const TRANS_TIME = 1.0
 ## List of all available games to play
-const BASEPLATE = preload("res://Frameworks(YourStuff)/Jude/BasePlate/Baseplate.tscn")
+const BASEPLATE = preload("res://Frameworks(YourStuff)/BasePlate/Baseplate.tscn")
 const VANDALISM_JUDE_ = preload("res://Frameworks(YourStuff)/Jude/ShakeColors/Vandalism(Jude).tscn")
 
 var all_games : Array[PackedScene] = [BASEPLATE, VANDALISM_JUDE_]

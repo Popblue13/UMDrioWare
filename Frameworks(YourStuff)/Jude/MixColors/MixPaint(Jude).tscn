@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://exaws1jgbyi6"]
 
-[ext_resource type="Script" uid="uid://d28a1gihixqie" path="res://DebugSampleGames/Scripts/MicroGameRoot.gd" id="1_kfb5p"]
+[ext_resource type="Script" uid="uid://d28a1gihixqie" path="res://Misc/Scripts/MicroGameRoot.gd" id="1_kfb5p"]
 [ext_resource type="Script" uid="uid://c1r4tn66ual54" path="res://Frameworks(YourStuff)/Jude/MixColors/MixColorgame.gd" id="2_utxgy"]
 [ext_resource type="Script" uid="uid://qankqaj8u8s0" path="res://Frameworks(YourStuff)/Jude/ShakeColors/ui.gd" id="4_htx8l"]
 [ext_resource type="Texture2D" uid="uid://b0qp2gfkx3prp" path="res://Frameworks(YourStuff)/Jude/ShakeColors/download_5.png" id="5_skyad"]
